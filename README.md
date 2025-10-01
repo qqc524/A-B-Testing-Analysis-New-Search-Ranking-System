@@ -1,6 +1,6 @@
 # A/B Testing Analysis: New Search Ranking System
 
-This project focuses on **analyzing an A/B test** for a new search ranking system at an online travel agency. The main goal was to see if the new system could **increase bookings** (conversion) without making the **booking process slower**.
+This project focuses on analyzing an A/B test for a new search ranking system at an online travel agency. The main goal was to see if the new system could **increase bookings** (conversion) without making the **booking process slower**.
 
 
 
@@ -34,7 +34,7 @@ Based on the analysis:
 - The **booking time did not increase**  
 - **Effect sizes** show the improvement is meaningful  
 
-**Recommendation:** The new search ranking system **should be rolled out** to all users because it increases bookings without harming the booking experience.
+**Recommendation:** The new search ranking system can be **apply to all users**, because it increases bookings without slowing down the booking process.
 
 
 
