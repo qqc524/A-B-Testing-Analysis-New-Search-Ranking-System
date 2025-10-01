@@ -2,7 +2,7 @@
 
 This project focuses on **analyzing an A/B test** for a new search ranking system at an online travel agency. The main goal was to see if the new system could **increase bookings** (conversion) without making the **booking process slower**.
 
----
+
 
 ## Project Overview
 
@@ -16,7 +16,7 @@ The analysis workflow included:
   - Z-test for conversion  
   - T-test for time-to-booking  
 
----
+
 
 ## Key Results
 
@@ -24,7 +24,7 @@ The analysis workflow included:
 - **Time to book did not increase**, indicating no negative impact on user experience  
 - SRM test showed that the experiment groups were **balanced**, ensuring reliable results  
 
----
+
 
 ## Conclusion & Recommendation
 
@@ -39,7 +39,7 @@ Based on the analysis:
 
 
 
-## ⚙️ Tools & Libraries
+## Tools & Libraries
 
 - Python (pandas, scipy, statsmodels)  
 - Statistical tests: Z-test, T-test  
