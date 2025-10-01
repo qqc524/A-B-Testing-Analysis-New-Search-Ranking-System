@@ -13,8 +13,8 @@ The analysis workflow included:
 - **Checking group balance** using a **Sample Ratio Mismatch (SRM) test**  
 - **Calculating effect sizes** to measure the impact of the new ranking system  
 - **Running statistical tests**:
-  - Z-test for conversion  
-  - T-test for time-to-booking  
+  - z-test for conversion  
+  - t-test for time-to-booking  
 
 
 
@@ -42,5 +42,5 @@ Based on the analysis:
 ## Tools & Libraries
 
 - Python (pandas, scipy, statsmodels)  
-- Statistical tests: Z-test, T-test  
+- Statistical tests: z-test, t-test
 - Effect size calculation and SRM test for experiment validation  
